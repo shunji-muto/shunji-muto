@@ -1,8 +1,4 @@
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={shunji-muto}
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shunji-muto)](https://github.com/shunji-muto/github-profile-trophy)
 
 # My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/shunji-muto/posts.svg)](http://qiita.com/shunji-muto)
