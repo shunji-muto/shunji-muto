@@ -3,4 +3,14 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shunji-muto&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shunji-muto&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+## Languages
+
+[![Languages](https://skillicons.dev/icons?i=javascript,typescript,html,css,md)](https://skillicons.dev)
+
+## Framework
+
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind)](https://skillicons.dev)
+
+## SQL
+
+[![SQL](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
