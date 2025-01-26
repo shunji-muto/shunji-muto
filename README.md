@@ -20,19 +20,25 @@
 
 ## Languages
 
-[![Languages](https://skillicons.dev/icons?i=javascript,typescript,html,css,md)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,javascript,typescript,html,css,md)](https://skillicons.dev)
 
 ## Framework
 
-[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,spring,tailwind,materialui)](https://skillicons.dev)
 
 ## SQL
 
-[![SQL](https://skillicons.dev/icons?i=mysql,postgresql, graphql)](https://skillicons.dev)
+[![SQL](https://skillicons.dev/icons?i=mysql,postgresql,graphql)](https://skillicons.dev)
 
 ## Cloud
 
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,terraform)](https://skillicons.dev)
+
+
+## Other
+
+[![Other](https://skillicons.dev/icons?i=docker,github,githubactions,unity)](https://skillicons.dev)
+
 
 
   
