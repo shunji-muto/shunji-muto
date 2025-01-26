@@ -28,7 +28,7 @@
 
 ## SQL
 
-[![SQL](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
+[![SQL](https://skillicons.dev/icons?i=mysql,postgresql, graphql)](https://skillicons.dev)
 
 ## Cloud
 
